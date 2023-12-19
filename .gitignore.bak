@@ -5,6 +5,7 @@
 # UNREAL ENGINE .gitignore starts here
 # ===================================================
 # we do not need to version control the Starter Content and other UE4 standard stuff
+
 Content/StarterContent/*
 Content/Mannequin/*
 Content/ThirdPerson/*

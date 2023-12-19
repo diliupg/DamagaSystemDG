@@ -10,6 +10,9 @@ Content/StarterContent/*
 Content/Mannequin/*
 Content/ThirdPerson/*
 Content/ThirdPersonBP/*
+Content/InfinityBladeEffects/*
+Content/ParagonGideon/*
+
 
 # Visual Studio 2015 user specific files
 .vs/
